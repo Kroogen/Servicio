@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 4cc1716ab0073bd49b681d5db3066903
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AlaDerecha
+    100002: AlaInferiorDerecha
+    100004: AlaInferiorIzquierdo
+    100006: AlaIzquierda
+    100008: AlaSuperiorDerecho
+    100010: AlaSuperiorIzquierdo
+    100012: Boca
+    100014: CaderaDerecha
+    100016: CaderaIzquierda
+    100018: ColaCentro
+    100020: ColaCentro 1
+    100022: ColaDerecha
+    100024: ColaDerecho
+    100026: ColaEsquinaDerecha
+    100028: ColaEsquinaIzquierda
+    100030: ColaIzquierda
+    100032: ColaIzquierdo
+    100034: ColaOrillaDerecho
+    100036: ColaOrillaIzquierdo
+    100038: Cuerpo
+    100040: Cuerpo 1
+    100042: Esqueleto
+    100044: OjoDer
+    100046: OjoDerecho
+    100048: OjoIzq
+    100050: OjoIzquierdo
+    100052: PataDerecha
+    100054: PataDerecha 1
+    100056: PataInferiorDerecha
+    100058: PataInferiorIzquierda
+    100060: PataIzquierda
+    100062: PataIzquierda 1
+    100064: PataSuperiorDerecha
+    100066: PataSuperiorIzquierda
+    100068: PechoDerecho
+    100070: PechoIzquierdo
+    100072: PicoInferior
+    100074: PicoSuperior
+    100076: PiernaInferiorDerecha
+    100078: PiernaInferiorIzquierda
+    100080: PiernaSuperiorDerecha
+    100082: PiernaSuperiorIzquierda
+    100084: //RootNode
+    100086: Rostro
+    100088: RostroDerecho
+    100090: RostroIzquierdo
+    100092: Unia1Derecho
+    100094: Unia1Izquierdo
+    100096: Unia2Derecha
+    100098: Unia2Izquierdo
+    100100: Unia3Derecha
+    100102: Unia3Izquierda
+    100104: UnionCola
+    400000: AlaDerecha
+    400002: AlaInferiorDerecha
+    400004: AlaInferiorIzquierdo
+    400006: AlaIzquierda
+    400008: AlaSuperiorDerecho
+    400010: AlaSuperiorIzquierdo
+    400012: Boca
+    400014: CaderaDerecha
+    400016: CaderaIzquierda
+    400018: ColaCentro
+    400020: ColaCentro 1
+    400022: ColaDerecha
+    400024: ColaDerecho
+    400026: ColaEsquinaDerecha
+    400028: ColaEsquinaIzquierda
+    400030: ColaIzquierda
+    400032: ColaIzquierdo
+    400034: ColaOrillaDerecho
+    400036: ColaOrillaIzquierdo
+    400038: Cuerpo
+    400040: Cuerpo 1
+    400042: Esqueleto
+    400044: OjoDer
+    400046: OjoDerecho
+    400048: OjoIzq
+    400050: OjoIzquierdo
+    400052: PataDerecha
+    400054: PataDerecha 1
+    400056: PataInferiorDerecha
+    400058: PataInferiorIzquierda
+    400060: PataIzquierda
+    400062: PataIzquierda 1
+    400064: PataSuperiorDerecha
+    400066: PataSuperiorIzquierda
+    400068: PechoDerecho
+    400070: PechoIzquierdo
+    400072: PicoInferior
+    400074: PicoSuperior
+    400076: PiernaInferiorDerecha
+    400078: PiernaInferiorIzquierda
+    400080: PiernaSuperiorDerecha
+    400082: PiernaSuperiorIzquierda
+    400084: //RootNode
+    400086: Rostro
+    400088: RostroDerecho
+    400090: RostroIzquierdo
+    400092: Unia1Derecho
+    400094: Unia1Izquierdo
+    400096: Unia2Derecha
+    400098: Unia2Izquierdo
+    400100: Unia3Derecha
+    400102: Unia3Izquierda
+    400104: UnionCola
+    2100000: MaterialAlasQuetzal.001
+    2100002: MaterialColaQuetzal 3.001
+    2100004: MaterialCuerpoQuetzal.001
+    2100006: ColorOjos.001
+    2100008: MaterialPatas2.001
+    2100010: MaterialPatas1.001
+    2100012: MaterialPicoQuetzalInferior.001
+    2100014: MaterialPicoSuperior.001
+    2100016: MaterialUnia.001
+    4300000: AlaDerecha
+    4300002: AlaIzquierda
+    4300004: ColaCentro
+    4300006: ColaDerecho
+    4300008: ColaIzquierdo
+    4300010: ColaOrillaDerecho
+    4300012: ColaOrillaIzquierdo
+    4300014: Cuerpo
+    4300016: OjoDer
+    4300018: OjoIzq
+    4300020: PataDerecha
+    4300022: PataInferiorDerecha
+    4300024: PataInferiorIzquierda
+    4300026: PataIzquierda
+    4300028: PataSuperiorDerecha
+    4300030: PataSuperiorIzquierda
+    4300032: PicoInferior
+    4300034: PicoSuperior
+    4300036: Unia1Derecho
+    4300038: Unia1Izquierdo
+    4300040: Unia2Derecha
+    4300042: Unia2Izquierdo
+    4300044: Unia3Derecha
+    4300046: Unia3Izquierda
+    7400000: Esqueleto|SaltoIzquierdoNivel
+    9500000: //RootNode
+    13700000: AlaDerecha
+    13700002: AlaIzquierda
+    13700004: ColaCentro
+    13700006: ColaDerecho
+    13700008: ColaIzquierdo
+    13700010: ColaOrillaDerecho
+    13700012: ColaOrillaIzquierdo
+    13700014: Cuerpo
+    13700016: OjoDer
+    13700018: OjoIzq
+    13700020: PataDerecha
+    13700022: PataInferiorDerecha
+    13700024: PataInferiorIzquierda
+    13700026: PataIzquierda
+    13700028: PataSuperiorDerecha
+    13700030: PataSuperiorIzquierda
+    13700032: PicoInferior
+    13700034: PicoSuperior
+    13700036: Unia1Derecho
+    13700038: Unia1Izquierdo
+    13700040: Unia2Derecha
+    13700042: Unia2Izquierdo
+    13700044: Unia3Derecha
+    13700046: Unia3Izquierda
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

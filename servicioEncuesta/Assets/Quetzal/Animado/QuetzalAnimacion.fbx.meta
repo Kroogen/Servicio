@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: e2c34a5b89fc3824a9194de3fecdc037
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alas.001
+    100002: Alas.002
+    100004: Body
+    100006: Body.001
+    100008: Body.002
+    100010: Body.003
+    100012: Body.004
+    100014: Body.005
+    100016: Body.006
+    100018: Body.007
+    100020: Cube
+    100022: Cube.001
+    100024: Cube.002
+    100026: Cube.003
+    100028: Cube.004
+    100030: Cuerpo.001
+    100032: Esqueleto
+    100034: FootLeft
+    100036: FootRight
+    100038: LegLeft1
+    100040: LegLeft2
+    100042: LegRight1
+    100044: LegRight2
+    100046: OjoDer.001
+    100048: OjoIzq.001
+    100050: PataInferior.001
+    100052: PataInferior.002
+    100054: PataInferior.003
+    100056: Patas.001
+    100058: Patas.002
+    100060: Patas.003
+    100062: PataSuperior.001
+    100064: PataSuperior.002
+    100066: PataSuperior.003
+    100068: PicoInferior.001
+    100070: PicoSuperior.001
+    100072: //RootNode
+    100074: TaleCenter
+    100076: TaleCornerLeft
+    100078: TaleCornerRight
+    100080: TaleLeft
+    100082: TaleRight
+    100084: taleUnion
+    100086: Unia 1.001
+    100088: Unia 1.002
+    100090: Unia 2.001
+    100092: Unia 2.002
+    100094: Unia 3.001
+    100096: Unia 4.001
+    100098: Unia 5.001
+    100100: Unia 5.002
+    100102: Unia 6.001
+    100104: WingLeft1
+    100106: wingLeft2
+    100108: WingRight1
+    100110: WingRight2
+    400000: Alas.001
+    400002: Alas.002
+    400004: Body
+    400006: Body.001
+    400008: Body.002
+    400010: Body.003
+    400012: Body.004
+    400014: Body.005
+    400016: Body.006
+    400018: Body.007
+    400020: Cube
+    400022: Cube.001
+    400024: Cube.002
+    400026: Cube.003
+    400028: Cube.004
+    400030: Cuerpo.001
+    400032: Esqueleto
+    400034: FootLeft
+    400036: FootRight
+    400038: LegLeft1
+    400040: LegLeft2
+    400042: LegRight1
+    400044: LegRight2
+    400046: OjoDer.001
+    400048: OjoIzq.001
+    400050: PataInferior.001
+    400052: PataInferior.002
+    400054: PataInferior.003
+    400056: Patas.001
+    400058: Patas.002
+    400060: Patas.003
+    400062: PataSuperior.001
+    400064: PataSuperior.002
+    400066: PataSuperior.003
+    400068: PicoInferior.001
+    400070: PicoSuperior.001
+    400072: //RootNode
+    400074: TaleCenter
+    400076: TaleCornerLeft
+    400078: TaleCornerRight
+    400080: TaleLeft
+    400082: TaleRight
+    400084: taleUnion
+    400086: Unia 1.001
+    400088: Unia 1.002
+    400090: Unia 2.001
+    400092: Unia 2.002
+    400094: Unia 3.001
+    400096: Unia 4.001
+    400098: Unia 5.001
+    400100: Unia 5.002
+    400102: Unia 6.001
+    400104: WingLeft1
+    400106: wingLeft2
+    400108: WingRight1
+    400110: WingRight2
+    2100000: MaterialUnia
+    2100002: MaterialPatas2
+    2100004: MaterialPatas1
+    2100006: MaterialCuerpoQuetzal
+    2100008: MaterialAlasQuetzal
+    2100010: ColorOjos
+    2100012: MaterialPicoSuperior
+    2100014: MaterialPicoQuetzalInferior
+    2100016: MaterialColaQuetzal 3
+    2300000: PataInferior.001
+    2300002: Patas.001
+    2300004: PataSuperior.001
+    2300006: Unia 1.001
+    2300008: Unia 2.001
+    2300010: Unia 5.001
+    3300000: PataInferior.001
+    3300002: Patas.001
+    3300004: PataSuperior.001
+    3300006: Unia 1.001
+    3300008: Unia 2.001
+    3300010: Unia 5.001
+    4300000: Patas.001
+    4300002: PataSuperior.001
+    4300004: PataInferior.001
+    4300006: Unia 1.001
+    4300008: Unia 2.001
+    4300010: Unia 3.001
+    4300012: Unia 4.001
+    4300014: Unia 5.001
+    4300016: Unia 6.001
+    4300018: Patas.002
+    4300020: PataSuperior.002
+    4300022: PataInferior.002
+    4300024: Unia 1.002
+    4300026: Unia 2.002
+    4300028: Unia 5.002
+    4300030: PataSuperior.003
+    4300032: PataInferior.003
+    4300034: Patas.003
+    4300036: Cuerpo.001
+    4300038: Alas.001
+    4300040: OjoDer.001
+    4300042: OjoIzq.001
+    4300044: PicoSuperior.001
+    4300046: PicoInferior.001
+    4300048: Alas.002
+    4300050: Cube
+    4300052: Cube.001
+    4300054: Cube.002
+    4300056: Cube.003
+    4300058: Cube.004
+    7400000: Esqueleto|Action
+    7400002: Esqueleto|Idle
+    7400004: Esqueleto|OjoDer.001Action
+    7400006: Esqueleto|OjoIzq.001Action
+    7400008: Esqueleto|Idle (1)
+    9500000: //RootNode
+    13700000: Alas.001
+    13700002: Alas.002
+    13700004: Cube
+    13700006: Cube.001
+    13700008: Cube.002
+    13700010: Cube.003
+    13700012: Cube.004
+    13700014: Cuerpo.001
+    13700016: OjoDer.001
+    13700018: OjoIzq.001
+    13700020: PataInferior.002
+    13700022: PataInferior.003
+    13700024: Patas.002
+    13700026: Patas.003
+    13700028: PataSuperior.002
+    13700030: PataSuperior.003
+    13700032: PicoInferior.001
+    13700034: PicoSuperior.001
+    13700036: Unia 1.002
+    13700038: Unia 2.002
+    13700040: Unia 3.001
+    13700042: Unia 4.001
+    13700044: Unia 5.002
+    13700046: Unia 6.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Esqueleto|Idle (1)
+      takeName: Esqueleto|Idle
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Esqueleto|Idle
+      takeName: Esqueleto|Idle
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Esqueleto|OjoDer.001Action
+      takeName: Esqueleto|OjoDer.001Action
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Esqueleto|OjoIzq.001Action
+      takeName: Esqueleto|OjoIzq.001Action
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

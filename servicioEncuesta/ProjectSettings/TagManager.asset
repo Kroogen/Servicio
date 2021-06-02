@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Personaje
+  - UIPanelIzquierda
+  - UIPanelDerecha
+  - Zarit1
+  - Zarit2
+  - Zarit3
+  - Zarit4
+  - Zarit5
+  - EncuestaPrefab
+  - ResultadoEncuestaPrefab
   layers:
   - Default
   - TransparentFX
